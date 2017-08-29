@@ -1,2 +1,6 @@
 # hello-world
-This is name of my first application
+
+
+Hello Kind People
+
+I am Mike, and i am html,css and javascript lover, but i am made out java and excel in it very well.
